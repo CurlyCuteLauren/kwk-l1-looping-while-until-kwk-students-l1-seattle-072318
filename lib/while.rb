@@ -6,6 +6,7 @@ def using_while
   puts "Your levitation_force is ow #{levitation_force}."
 end
 puts "Our feather is flyn' high! Hermione is so proud :)"
+
 end
 
 using_while
